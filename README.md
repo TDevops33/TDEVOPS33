@@ -1,4 +1,4 @@
-### Hi there 👋 I am a freelance developer who has transitioned out of Field Management for a Multi national Corporation. I am currently working in HR as a Benefits Specialist. I freelance as a developer in my spare time picking up a few paid gigs here and there of which I am unable to share on here due to NDAS. 
+### Hi there 👋 I am a freelance developer who has transitioned out of Field Management for a multi national corporation. I am currently working in HR as a Benefits Specialist. I freelance as a developer in my spare time picking up a few paid gigs here and there of which I am unable to share on here due to NDAS. 
 
 <!--
 **TDevops33/TDEVOPS33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
